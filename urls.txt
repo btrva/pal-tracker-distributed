@@ -1,0 +1,6 @@
+https://registration-pal-rabo.apps.longs.pal.pivotal.io/users/<USER-ID>
+https://registration-pal-rabo.apps.longs.pal.pivotal.io/accounts?ownerId=<USER-ID>
+https://registration-pal-rabo.apps.longs.pal.pivotal.io/projects?accountId=<ACCOUNT-ID>
+https://allocations-pal-rabo.apps.longs.pal.pivotal.io/allocations?projectId=<PROJECT-ID>
+https://backlog-pal-rabo.apps.longs.pal.pivotal.io/stories?projectId=<PROJECT-ID>
+https://timesheets-pal-rabo.apps.longs.pal.pivotal.io/time-entries?userId=<USER-ID>
